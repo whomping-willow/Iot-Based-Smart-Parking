@@ -1,5 +1,5 @@
 C:  
-🔗 Check out the Project Report for better understanding.[IoT-Based Smart Parking GitHub Repository](https://github.com/whomping-willow/Iot-Based-Smart-Parking/)
+🔗 [Check out the Project Report for better understanding.]([https://github.com/whomping-willow/Iot-Based-Smart-Parking/](https://github.com/whomping-willow/Iot-Based-Smart-Parking/blob/main/parking_docfile%20(1).pdf))
 ## Table of Contents
 
 - [Components](#components)
