@@ -1,5 +1,6 @@
-C:  
-🔗 [Check out the Project Report for better understanding.]([https://github.com/whomping-willow/Iot-Based-Smart-Parking/](https://github.com/whomping-willow/Iot-Based-Smart-Parking/blob/main/parking_docfile%20(1).pdf))
+# Smart Parking: An IoT Based Solution for Smart University
+
+This project is a Smart University Parking Management System designed to efficiently manage parking spaces on a university campus. The system aims to reduce congestion, enhance user experience, and ensure optimal utilization of parking slots. It leverages IoT components and integrates seamlessly with the Blynk platform to provide real-time parking slot availability.
 ## Table of Contents
 
 - [Components](#components)
